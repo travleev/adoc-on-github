@@ -1,0 +1,22 @@
+= Example adoc
+Anton
+2021-10-22
+
+== Checklists
+
+THis is a checklist without title:
+
+* [x] Completed,
+
+* [*] Also completed
+
+* [ ] Stil to do
+
+This is a checklist with a title:
+
+.A checklist
+* [x] Completed,
+
+* [*] Also completed
+
+* [ ] Stil to do
