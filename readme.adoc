@@ -20,3 +20,22 @@ This is a checklist with a title:
 * [*] Also completed
 
 * [ ] Stil to do
+
+
+= Test adoc features
+
+This is the first paragraph that should(?) be emphasized.
+
+Let start with lists:
+
+.Checklist
+* [x] Completed item
+* [*] Another completed item
+* [ ] Item to do
+    ** [ ] Sub-item to do
+
+.Unordered list
+* Item
+* Another item
+* Yet another item
+    ** And a sub-item     
